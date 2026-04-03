@@ -1,8 +1,8 @@
-# 📘 Lógica de Programação 01
+# 📘 Lógica de Programação 1
 
 Este repositório reúne projetos, exercícios, anotações e códigos que fiz quando comecei a estudar programação em **2025**.
 
-Encontrei esses códigos “perdidos” no meu computador e decidi postar aqui no GitHub como uma forma de acompanhar minha evolução, comparar o que eu fazia no início com o que sei hoje e medir meu avanço ao longo do tempo.
+Encontrei esses códigos perdidos no meu computador e decidi postar aqui no GitHub como uma forma de acompanhar minha evolução, comparar o que eu fazia no início com o que sei hoje e medir meu avanço ao longo do tempo.
 
 São códigos antigos, mas que representam o começo de tudo na minha jornada na programação 🚀
 
