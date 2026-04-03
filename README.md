@@ -50,11 +50,11 @@ Mais do que apenas guardar códigos, esse repositório serve como:
 
 Durante a criação desses projetos, comecei a desenvolver:
 
-🧩 Raciocínio lógico
-🔍 Resolução de problemas
-🧠 Pensamento estruturado
-🔨 Construção de algoritmos
-🔁 Uso de estruturas de repetição
-🔀 Uso de estruturas condicionais
-📊 Organização e leitura de código
-🚀 Base para evolução na programação
+*🧩 Raciocínio lógico
+*🔍 Resolução de problemas
+*🧠 Pensamento estruturado
+*🔨 Construção de algoritmos
+*🔁 Uso de estruturas de repetição
+*🔀 Uso de estruturas condicionais
+*📊 Organização e leitura de código
+*🚀 Base para evolução na programação
