@@ -1,4 +1,4 @@
-/* 06- Crie um programa em C que peça ao usuário dois números inteiros: o dividendo e 
+/* Crie um programa em C que peça ao usuário dois números inteiros: o dividendo e 
 o divisor. Em seguida, calcule e mostre na tela o quociente e o resto da divisão inteira, 
 junto com os valores do dividendo e do divisor.*/
 
