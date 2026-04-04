@@ -1,4 +1,4 @@
-/* 01-Crie um programa que declare dois números inteiros, calcule o produto entre
+/* Crie um programa que declare dois números inteiros, calcule o produto entre
 eles e exiba o resultado na tela, informando quais foram os valores utilizados no cálculo.*/
 
 #include<stdio.h>
