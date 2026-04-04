@@ -1,4 +1,4 @@
-/* 02-Desenvolva um programa que solicite ao usuário a entrada de três valores numéricos reais.
+/* Desenvolva um programa que solicite ao usuário a entrada de três valores numéricos reais.
 Em seguida, o programa deverá calcular a média aritmética desses valores e apresentar o resultado na tela*/
 
 #include <stdio.h>
