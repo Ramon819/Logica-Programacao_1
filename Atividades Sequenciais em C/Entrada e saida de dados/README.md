@@ -20,10 +20,10 @@ Clique nos links para abrir o código no GitHub:
 
 | 🗂 Arquivo                                                 | 📝 Descrição                                                                        |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [`produto2num.c`](./produto2num.c)                         | ✖ Calcula o **produto de dois números inteiros**                                    |
-| [`media3num.c`](./media3num.c)                             | ➗ Calcula a **média aritmética de três números reais**                              |
+| [`produto2numeros.c`](./produto2num.c)                         | ✖ Calcula o **produto de dois números inteiros**                                    |
+| [`media3numeros.c`](./media3num.c)                             | ➗ Calcula a **média aritmética de três números reais**                              |
 | [`antecessor_sucessor.c`](./antecessor_sucessor.c)         | ⬅️➡️ Mostra o **antecessor e sucessor** de um número inteiro                        |
-| [`soma2num.c`](./soma2num.c)                               | ➕ Calcula a **soma de dois números reais**                                          |
+| [`soma2numeros.c`](./soma2num.c)                               | ➕ Calcula a **soma de dois números reais**                                          |
 | [`terca_parte.c`](./terca_parte.c)                         | 🟰 Calcula a **terça parte** de um número real                                      |
 | [`divisao_quociente_resto.c`](./divisao_quociente_resto.c) | ➗ Calcula o **quociente e o resto** de uma divisão inteira                          |
 | [`media_ponderada.c`](./media_ponderada.c)                 | ⚖️ Calcula a **média ponderada** de quatro números com pesos 1,2,3 e 4              |
