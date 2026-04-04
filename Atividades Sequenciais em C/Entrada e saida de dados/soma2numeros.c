@@ -1,4 +1,4 @@
-/* 04- Faça um programa em C que peça ao usuário dois números reais e mostre na tela a soma 
+/* Faça um programa em C que peça ao usuário dois números reais e mostre na tela a soma 
 desses valores, formatando o resultado com duas casas decimais.*/
 
 #include <stdio.h>
