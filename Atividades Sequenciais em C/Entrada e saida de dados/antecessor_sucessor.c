@@ -1,4 +1,4 @@
-/* 03- Crie um programa em C que peça ao usuário um número inteiro.
+/* Crie um programa em C que peça ao usuário um número inteiro.
 Em seguida, mostre na tela qual é o número antecessor e o sucessor desse valor.*/
 
 #include <stdio.h>
