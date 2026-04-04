@@ -1,4 +1,4 @@
-/* 05- Crie um programa em C que peça ao usuário um número real e mostre na 
+/* Crie um programa em C que peça ao usuário um número real e mostre na 
 tela quanto é a terça parte desse número, formatando o resultado com duas casas decimais*/
 
 #include <stdio.h>
